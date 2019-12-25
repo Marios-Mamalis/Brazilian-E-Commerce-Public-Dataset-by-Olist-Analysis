@@ -1,5 +1,6 @@
 ---
 title: "R Notebook for EMOS. Case study:Brazilian Ecommerce"
+author: Marios Mamalis
 output: html_notebook
 ---
 Φόρτωση δεδομένων και βιβλιοθηκών και απαραίτητες αλλαγές
